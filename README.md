@@ -49,13 +49,10 @@
 
 <p align="center"><sub>Both clips are real Shorts made with the skill. Nothing was hand-animated.</sub></p>
 
-<div align="center">
-
-<video src="assets/demo.mp4" poster="assets/result-3.png" controls width="100%"></video>
-
-**[▶ Open the build-process demo](assets/demo.mp4)** — 15.9 s · 2992 × 1440 · 60 fps
-
-</div>
+<p align="center">
+  <b><a href="assets/demo-weather.mp4">▶ Full demo — Screen time controls the weather</a></b><br>
+  <b><a href="assets/demo-gta6.mp4">▶ Full demo — Everyone is playing GTA 6 except me</a></b>
+</p>
 
 ---
 
