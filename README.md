@@ -42,7 +42,7 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img src="docs/img/r1.gif" width="240" alt="Roblox Shorts Skill Suite Ver 1.0 — screen time controls the weather"><br><sub><b>Screen time controls the weather</b> · the weather rule</sub></td>
+    <td align="center"><img src="docs/img/r1.gif" width="240" alt="Roblox Shorts Skill Suite Ver 1.0 — no one is allowed to clap"><br><sub><b>No one is allowed to clap</b> · the clap rule</sub></td>
     <td align="center"><img src="docs/img/r2.gif" width="240" alt="Roblox Shorts Skill Suite Ver 1.0 — everyone is playing GTA 6 except me"><br><sub><b>GTA 6 except me</b> · the twist</sub></td>
   </tr>
 </table>
@@ -50,7 +50,7 @@
 <p align="center"><sub>Both clips are real Shorts made with the skill. Nothing was hand-animated.</sub></p>
 
 <p align="center">
-  <b><a href="assets/demo-weather.mp4">▶ Full demo — Screen time controls the weather</a></b><br>
+  <b><a href="assets/demo-clap.mp4">▶ Full demo — No one is allowed to clap</a></b><br>
   <b><a href="assets/demo-gta6.mp4">▶ Full demo — Everyone is playing GTA 6 except me</a></b>
 </p>
 
