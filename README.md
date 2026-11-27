@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/img/banner.png" alt="IN THIS TOWN SKILL V 1.0 — one idea in, a finished Roblox Short out" width="100%">
+  <img src="docs/img/banner.png" alt="Roblox Shorts In This Town Skill V 1.0 — one idea in, a finished Roblox Short out" width="100%">
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 <span style="color:pink">IN THIS TOWN, WE CREATE TOWNS</span>
 
-# IN THIS TOWN SKILL V 1.0
+# Roblox Shorts In This Town Skill V 1.0
 
 ### One idea in. A finished 9:16 Roblox-style story short out.
 
@@ -30,9 +30,9 @@
 [![voice](https://img.shields.io/badge/voice-free%20routes-0ea5e9?style=for-the-badge)](#)
 [![stars](https://img.shields.io/github/stars/hackerlolord/in-this-town-skill?style=for-the-badge&color=fbbf24)](https://github.com/hackerlolord/in-this-town-skill/stargazers)
 
-<p align="center"><b><a href="https://github.com/hackerlolord/in-this-town-skill#-watch-it-make-a-video">▶ Watch it make a video</a></b> &nbsp;·&nbsp; <b><a href="https://github.com/hackerlolord/in-this-town-skill/raw/main/IN%20THIS%20TOWN%20SKILL%20V%201.0.zip">⬇ Download the free ZIP</a></b> &nbsp;·&nbsp; <b><a href="#install">Full setup guide</a></b></p>
+<p align="center"><b><a href="https://github.com/hackerlolord/in-this-town-skill#-watch-it-make-a-video">▶ Watch it make a video</a></b> &nbsp;·&nbsp; <b><a href="https://github.com/hackerlolord/in-this-town-skill/raw/main/Roblox%20Shorts%20In%20This%20Town%20Skill%20V%201.0.zip">⬇ Download the free ZIP</a></b> &nbsp;·&nbsp; <b><a href="#install">Full setup guide</a></b></p>
 
-**[⬇ DOWNLOAD THE SKILL — `IN THIS TOWN SKILL V 1.0.zip`](https://github.com/hackerlolord/in-this-town-skill/raw/main/IN%20THIS%20TOWN%20SKILL%20V%201.0.zip)**
+**[⬇ DOWNLOAD THE SKILL — `Roblox Shorts In This Town Skill V 1.0.zip`](https://github.com/hackerlolord/in-this-town-skill/raw/main/Roblox%20Shorts%20In%20This%20Town%20Skill%20V%201.0.zip)**
 
 </p>
 
@@ -42,8 +42,8 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img src="docs/img/r1.gif" width="240" alt="IN THIS TOWN SKILL V 1.0 building the first Roblox short"><br><sub><b>The build</b> · world, characters, captions</sub></td>
-    <td align="center"><img src="docs/img/r2.gif" width="240" alt="IN THIS TOWN SKILL V 1.0 rendering the final vertical short"><br><sub><b>The render</b> · motion, effects, final MP4</sub></td>
+    <td align="center"><img src="docs/img/r1.gif" width="240" alt="Roblox Shorts In This Town Skill V 1.0 building the first Roblox short"><br><sub><b>The build</b> · world, characters, captions</sub></td>
+    <td align="center"><img src="docs/img/r2.gif" width="240" alt="Roblox Shorts In This Town Skill V 1.0 rendering the final vertical short"><br><sub><b>The render</b> · motion, effects, final MP4</sub></td>
   </tr>
 </table>
 
@@ -65,9 +65,9 @@ Three real outputs. Different rules, different worlds, different characters — 
 
 <table>
   <tr>
-    <td width="33.3%" valign="top"><a href="assets/result-1.png"><img src="assets/result-1.png" alt="IN THIS TOWN SKILL V 1.0 result one" width="100%"></a></td>
-    <td width="33.3%" valign="top"><a href="assets/result-2.png"><img src="assets/result-2.png" alt="IN THIS TOWN SKILL V 1.0 result two" width="100%"></a></td>
-    <td width="33.3%" valign="top"><a href="assets/result-3.png"><img src="assets/result-3.png" alt="IN THIS TOWN SKILL V 1.0 result three" width="100%"></a></td>
+    <td width="33.3%" valign="top"><a href="assets/result-1.png"><img src="assets/result-1.png" alt="Roblox Shorts In This Town Skill V 1.0 result one" width="100%"></a></td>
+    <td width="33.3%" valign="top"><a href="assets/result-2.png"><img src="assets/result-2.png" alt="Roblox Shorts In This Town Skill V 1.0 result two" width="100%"></a></td>
+    <td width="33.3%" valign="top"><a href="assets/result-3.png"><img src="assets/result-3.png" alt="Roblox Shorts In This Town Skill V 1.0 result three" width="100%"></a></td>
   </tr>
   <tr>
     <td align="center"><sub>Story world #1</sub></td>
@@ -124,7 +124,7 @@ Your own script is always accepted word for word — it is never rewritten witho
 ## 📦 What's in the ZIP
 
 ```
-IN THIS TOWN SKILL V 1.0/
+Roblox Shorts In This Town Skill V 1.0/
 ├── SKILL.md              the complete agent instructions
 ├── script.md             the five story shapes
 ├── examples.md           finished example scripts
@@ -163,7 +163,7 @@ IN THIS TOWN SKILL V 1.0/
 
 ### 2️⃣ Upload the ZIP — **do not extract it**
 
-Download **[`IN THIS TOWN SKILL V 1.0.zip`](https://github.com/hackerlolord/in-this-town-skill/raw/main/IN%20THIS%20TOWN%20SKILL%20V%201.0.zip)** and drop the file straight into your agent's chat/upload box. Leave it zipped.
+Download **[`Roblox Shorts In This Town Skill V 1.0.zip`](https://github.com/hackerlolord/in-this-town-skill/raw/main/Roblox%20Shorts%20In%20This%20Town%20Skill%20V%201.0.zip)** and drop the file straight into your agent's chat/upload box. Leave it zipped.
 
 > ⚠️ **Do not unzip it. Do not rename it. Do not copy the files one by one.** Upload the whole ZIP exactly as downloaded.
 
@@ -171,7 +171,7 @@ Download **[`IN THIS TOWN SKILL V 1.0.zip`](https://github.com/hackerlolord/in-t
 
 ```
 Install and set up the skill in the ZIP I just uploaded.
-The skill's name is IN THIS TOWN SKILL V 1.0.
+The skill's name is Roblox Shorts In This Town Skill V 1.0.
 Do not extract the ZIP yourself — use your skill installer.
 Once it is installed, run it and make me a Roblox short.
 ```
@@ -272,4 +272,4 @@ If this skill made your day, subscribe to the channel — that's what keeps thes
 
 MIT — use it, edit it, make money with it. See [`LICENSE`](LICENSE).
 
-<p align="center"><sub>IN THIS TOWN SKILL V 1.0 · <span style="color:pink">IN THIS TOWN, WE CREATE TOWNS</span></sub></p>
+<p align="center"><sub>Roblox Shorts In This Town Skill V 1.0 · <span style="color:pink">IN THIS TOWN, WE CREATE TOWNS</span></sub></p>
