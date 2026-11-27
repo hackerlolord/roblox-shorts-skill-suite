@@ -1,40 +1,57 @@
-<div align="center">
+<p align="center">
+  <img src="docs/img/banner.png" alt="IN THIS TOWN SKILL V 1.0 — one idea in, a finished Roblox Short out" width="100%">
+</p>
+
+<p align="center">
 
 ```text
   _____  _   _  ___  ____       _____   ___   _    _  _   _ 
- |_   _|| | | ||_ _|/ ___|     |_   _| / _ \ | |  | || \ | |
-   | |  | |_| | | | \___ \       | |  | | | || |  | ||  \| |
-   | |  |  _  | | |  ___) |      | |  | |_| || |/\| || |\  |
-   |_|  |_| |_||___||____/       |_|   \___/ |__/\__||_| \_|
+ |_   _|| | | ||_ _|/ ___|     |_   _| / _ \\ | |  | || \\ | |
+   | |  | |_| | | | \\___ \\       | |  | | | || |  | ||  \\| |
+   | |  |  _  | | |  ___) |      | |  | |_| || |/\\| || |\\  |
+   |_|  |_| |_||___||____/       |_|   \\___/ |__/\\__||_| \\_|
 ```
 
 <span style="color:pink">IN THIS TOWN, WE CREATE TOWNS</span>
 
 # IN THIS TOWN SKILL V 1.0
 
-### One idea in. A finished vertical Roblox-style story short out.
+### One idea in. A finished 9:16 Roblox-style story short out.
+
+**Give a free AI agent one sentence. It writes the story, builds the world, animates lip-syncing block characters, adds captions, voice, music and sound — then renders the MP4.**
 
 **No Roblox Studio. No Blender. No code. No API keys. No paid plan.**
 
+<sub>An AI Roblox story generator and text to video tool for vertical Roblox shorts — free, no-code, and built for AI agents.</sub>
+
 [![version](https://img.shields.io/badge/version-V%201.0-ff69b4?style=for-the-badge)](https://github.com/hackerlolord/in-this-town-skill/releases)
 [![format](https://img.shields.io/badge/format-9%3A16%20vertical-7c3aed?style=for-the-badge)](#)
-[![agents](https://img.shields.io/badge/works%20with-5%20free%20agents-22c55e?style=for-the-badge)](#install-in-60-seconds)
+[![agents](https://img.shields.io/badge/works%20with-5%20free%20agents-22c55e?style=for-the-badge)](#install)
 [![voice](https://img.shields.io/badge/voice-free%20routes-0ea5e9?style=for-the-badge)](#)
 [![stars](https://img.shields.io/github/stars/hackerlolord/in-this-town-skill?style=for-the-badge&color=fbbf24)](https://github.com/hackerlolord/in-this-town-skill/stargazers)
 
-<sub>An AI Roblox story generator and text to video tool for vertical Roblox shorts — free, no-code, and built for AI agents.</sub>
+<p align="center"><b><a href="https://github.com/hackerlolord/in-this-town-skill#-watch-it-make-a-video">▶ Watch it make a video</a></b> &nbsp;·&nbsp; <b><a href="https://github.com/hackerlolord/in-this-town-skill/raw/main/IN%20THIS%20TOWN%20SKILL%20V%201.0.zip">⬇ Download the free ZIP</a></b> &nbsp;·&nbsp; <b><a href="#install">Full setup guide</a></b></p>
 
 **[⬇ DOWNLOAD THE SKILL — `IN THIS TOWN SKILL V 1.0.zip`](https://github.com/hackerlolord/in-this-town-skill/raw/main/IN%20THIS%20TOWN%20SKILL%20V%201.0.zip)**
 
-</div>
+</p>
 
 ---
 
 ## 🎬 WATCH IT MAKE A VIDEO
 
+<table align="center">
+  <tr>
+    <td align="center"><img src="docs/img/r1.gif" width="240" alt="IN THIS TOWN SKILL V 1.0 building the first Roblox short"><br><sub><b>The build</b> · world, characters, captions</sub></td>
+    <td align="center"><img src="docs/img/r2.gif" width="240" alt="IN THIS TOWN SKILL V 1.0 rendering the final vertical short"><br><sub><b>The render</b> · motion, effects, final MP4</sub></td>
+  </tr>
+</table>
+
+<p align="center"><sub>Both clips are from the real demo below. Nothing was hand-animated.</sub></p>
+
 <div align="center">
 
-<video src="https://raw.githubusercontent.com/hackerlolord/in-this-town-skill/main/assets/demo.mp4" poster="https://raw.githubusercontent.com/hackerlolord/in-this-town-skill/main/assets/result-3.png" controls width="100%"></video>
+<video src="assets/demo.mp4" poster="assets/result-3.png" controls width="100%"></video>
 
 **[▶ Open the full demo video](assets/demo.mp4)** — 15.9 s · 2992 × 1440 · 60 fps
 
@@ -61,44 +78,50 @@ Three real outputs. Different rules, different worlds, different characters — 
 
 ---
 
-## ✨ WHAT IS IN THIS TOWN SKILL V 1.0?
+## How it works
 
-A complete, self-contained AI-agent skill that turns a story idea into a polished **9:16 shorts video** with blocky, game-world characters.
+<img src="docs/img/how.png" alt="Seven steps: idea, script, voice, plan, stills, check, MP4" width="100%">
 
-You make the choices. The agent does everything else:
-
-- writes six fresh story ideas, then a full script to your chosen length
-- builds the world in code with three.js — suburbs, meadows, plazas, city streets, rooms, or one of ~55 free themed kits
-- creates a cast of block avatars with pixel faces that **lip-sync to the narration**
-- adds walking NPCs, driving cars, magic, jumps, falls, crashes and camera moves
-- draws word-by-word captions in the viral short style
-- generates or imports the voice, then layers music and timed sound effects
-- checks still frames for framing and collision problems before rendering
-- renders the final MP4 and lets you ask for changes
-
-Everything lives in the ZIP. No marketplace hunting, no extra skills, no built-in computer voices.
-
-> **IN THIS TOWN SKILL V 1.0** is the exact name of the skill and of the ZIP folder inside the download. Use it everywhere.
+1. **You type one idea.** `make a Roblox short about a town where every laugh makes a balloon appear`
+2. **The agent writes six fresh ideas.** You pick one, or paste your own story. Nothing is written without your yes.
+3. **It writes the full script.** Title, rule, narrator, every line and the word count. You approve it before any voice work starts.
+4. **It plans the video.** Cast, places, effects, mood and camera moves.
+5. **It builds stills and checks them.** Framing, empty shots, clipping and stuck characters are caught before rendering.
+6. **It adds voice and sound.** Free local Kokoro TTS, Google AI Studio, or your own WAV/MP3. Then music, timed SFX and word-by-word captions.
+7. **It renders `out/video.mp4`.** Want a change? Say it in one sentence and the agent rebuilds it.
 
 ---
 
-## 🧭 THE 7-STEP FLOW
+## What it makes
 
-| # | Step | What you get | Do you decide? |
-|:-:|---|---|:-:|
-| 1 | **Set up** | Node, three.js, browser and ffmpeg installed for you | no |
-| 2 | **Story ideas** | 6 ideas + your top 3 + "your own story" | **yes** |
-| 3 | **Script** | Every line, with title and word count | **yes** |
-| 4 | **Voice** | Kokoro TTS, Google AI Studio, or your own audio | **yes** |
-| 5 | **Plan** | Cast, places, effects and moods | no |
-| 6 | **Build & check** | A sheet of stills to approve | **yes** |
-| 7 | **Render** | `out/video.mp4` — then ask for any change | **yes** |
+- **Block avatars with pixel faces** that lip-sync to the narration
+- **Procedural worlds** — suburbs, meadows, plazas, city streets, rooms, or ~55 free themed kits
+- **Life and effects** — walking NPCs, driving cars, magic, jumps, falls, crashes and camera moves
+- **Viral captions** — word-by-word, in the style short-form viewers expect
+- **Timed sound** — music bed, whooshes, hits, pops and reactions
+- **Quality checks** before every render, plus a new seed, cast and place for every video
 
-The script is always approved **before** any voice work starts. Your own script is never rewritten without your permission. Every video gets a new rule, new names, new cast, new place and a new seed — repetition is refused by design.
+No Roblox Studio. No Blender. No extra skills. Everything lives in the ZIP.
 
 ---
 
-## 📦 WHAT'S IN THE ZIP
+## Story formats built in
+
+No idea yet? The skill has five proven shapes, measured on viral shorts from 25 to 120 seconds.
+
+| Shape | Length | Feel | Try typing |
+|---|---|---|---|
+| **The rule is the rescue tool** | 60–100 s | funny → heroic | *in this town, every time you say "sorry", a tiny elephant appears* |
+| **The greedy one gets caught** | 90–110 s | cheeky → karmic | *a kid cheats the rule and gets counted* |
+| **The town is afraid for the wrong reason** | 100–120 s | silly → reveal | *everyone thinks the thing under the bed is a monster* |
+| **The newcomer breaks it** | 35–45 s | dark twist | *a new kid breaks the rule on purpose* |
+| **The cliffhanger** | 25–35 s | slow dread | *the rule breaks the world, and one line cuts it off* |
+
+Your own script is always accepted word for word — it is never rewritten without your permission.
+
+---
+
+## 📦 What's in the ZIP
 
 ```
 IN THIS TOWN SKILL V 1.0/
@@ -122,7 +145,9 @@ IN THIS TOWN SKILL V 1.0/
 
 ---
 
-## ⚡ INSTALL IN 60 SECONDS
+<a name="install"></a>
+
+## ⚡ Install in 60 seconds
 
 **Use any free AI agent you like.** Download one of these, upload the ZIP **directly** into it, and tell the agent to install and run the skill.
 
@@ -136,28 +161,34 @@ IN THIS TOWN SKILL V 1.0/
 | **Free Buff** | [Windows 64-bit installer](https://freebuff.com/api/desktop/download/windows) | [freebuff.com](https://freebuff.com/) · 100% free coding agent |
 | **Deep AI Code** | [windows-x64 installer](https://deepai.org/download/deepai-code/windows-x64) | [deepai.org/chat/ai-code](https://www.deepai.org/chat/ai-code) · Mac, Windows, Linux |
 
-All five links are first-party. Pick one — you do not need all of them.
-
 ### 2️⃣ Upload the ZIP — **do not extract it**
 
-Download **[`IN THIS TOWN SKILL V 1.0.zip`](https://github.com/hackerlolord/in-this-town-skill/raw/main/IN%20THIS%20TOWN%20SKILL%20V%201.0.zip)** and drop the file straight into your agent's chat/upload box. Leave it zipped. The agent knows how to install a skill from a ZIP.
+Download **[`IN THIS TOWN SKILL V 1.0.zip`](https://github.com/hackerlolord/in-this-town-skill/raw/main/IN%20THIS%20TOWN%20SKILL%20V%201.0.zip)** and drop the file straight into your agent's chat/upload box. Leave it zipped.
 
 > ⚠️ **Do not unzip it. Do not rename it. Do not copy the files one by one.** Upload the whole ZIP exactly as downloaded.
 
 ### 3️⃣ Say this to the agent
 
-```text
+```
 Install and set up the skill in the ZIP I just uploaded.
 The skill's name is IN THIS TOWN SKILL V 1.0.
 Do not extract the ZIP yourself — use your skill installer.
 Once it is installed, run it and make me a Roblox short.
 ```
 
-That's it. The skill prints its boot screen, asks you for an idea, and walks you through the rest.
+### 4️⃣ Your first short
+
+Open a new folder with your agent and type:
+
+```
+make a Roblox short about a town where every laugh makes a balloon appear
+```
+
+On first run the skill installs Node for your user if missing, then three.js, a browser and ffmpeg (~400 MB). No admin rights needed.
 
 ---
 
-## 🛠 WHAT IT SETS UP FOR YOU
+## 🛠 What it sets up for you
 
 | | |
 |---|---|
@@ -168,7 +199,7 @@ That's it. The skill prints its boot screen, asks you for an idea, and walks you
 | **Quality checks** | Framing, empty shots, clipping, stuck characters and repeat-place checks before the render |
 | **Preview** | Optional live browser preview with sound |
 
-**Works on** Windows, macOS and Linux. **Good to know:** the renderer is slower on old GPUs — keep the first video short. If Windows Firewall blocks the local renderer, allow Node.js through and run the same command again.
+**Works on** Windows, macOS and Linux. Renderers are slower on old GPUs — keep the first video short. If Windows Firewall blocks the local renderer, allow Node.js through and run the same command again.
 
 ---
 
@@ -184,8 +215,6 @@ That's it. The skill prints its boot screen, asks you for an idea, and walks you
 
 - **Free cloud GPU support** — if your GPU is slow, old or missing, render in the cloud instead. No upgrade needed.
 - **Long-form Roblox story creation** — full-length stories, not just 30–60 second shorts: more beats, more scenes, more characters, one continuous world.
-
-Same town. Bigger stories. Still free to start.
 
 ⭐ **[Star the repo](https://github.com/hackerlolord/in-this-town-skill/stargazers)** so you don't miss V2.0.
 
@@ -231,7 +260,7 @@ Yes. Finished videos are archived automatically and the next one gets a new cast
 
 ---
 
-## 🙏 CREDITS
+## 🤝 Credits
 
 Created by **MyLisaAi** · [youtube.com/@mylisaai](https://youtube.com/@mylisaai?si=u9jj41ZBSL_o_hi7)
 
@@ -239,12 +268,8 @@ If this skill made your day, subscribe to the channel — that's what keeps thes
 
 ---
 
-<div align="center">
+## 📄 Licence
 
-**IN THIS TOWN SKILL V 1.0**
+MIT — use it, edit it, make money with it. See [`LICENSE`](LICENSE).
 
-<span style="color:pink">IN THIS TOWN, WE CREATE TOWNS</span>
-
-[⬇ Download the ZIP](https://github.com/hackerlolord/in-this-town-skill/raw/main/IN%20THIS%20TOWN%20SKILL%20V%201.0.zip) · [🎬 Demo](assets/demo.mp4) · [🔮 V2.0 teaser](assets/teaser-v2.png) · [⭐ Star](https://github.com/hackerlolord/in-this-town-skill/stargazers)
-
-</div>
+<p align="center"><sub>IN THIS TOWN SKILL V 1.0 · <span style="color:pink">IN THIS TOWN, WE CREATE TOWNS</span></sub></p>
