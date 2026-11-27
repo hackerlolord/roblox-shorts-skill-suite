@@ -22,6 +22,8 @@
 [![voice](https://img.shields.io/badge/voice-free%20routes-0ea5e9?style=for-the-badge)](#)
 [![stars](https://img.shields.io/github/stars/hackerlolord/in-this-town-skill?style=for-the-badge&color=fbbf24)](https://github.com/hackerlolord/in-this-town-skill/stargazers)
 
+<sub>An AI Roblox story generator and text to video tool for vertical Roblox shorts — free, no-code, and built for AI agents.</sub>
+
 **[⬇ DOWNLOAD THE SKILL — `IN THIS TOWN SKILL V 1.0.zip`](https://github.com/hackerlolord/in-this-town-skill/raw/main/IN%20THIS%20TOWN%20SKILL%20V%201.0.zip)**
 
 </div>
