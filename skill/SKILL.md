@@ -1,5 +1,5 @@
 ---
-name: Roblox Shorts In This Town Skill V 1.0
+name: Roblox Shorts Skill Suite Ver 1.0
 description: Use when someone asks to make a Roblox short, a Roblox story video, an "In this town" video, a blocky game-world story short for YouTube Shorts, TikTok or Reels, or says "make me a roblox story". Also use to set up, voice, preview, fix or re-render one of these videos, or to set up the Kokoro TTS or Google AI Studio voice, or to use the person's own audio. Version 3.
 ---
 
@@ -18,7 +18,7 @@ The moment this skill is activated, before any other words, tool call, question,
 
 Immediately after the art, on the next line, show the tagline exactly: `<span style="color:pink">IN THIS TOWN, WE CREATE TOWNS</span>`. The **entire** small text is pink — every word, not just one. Then continue with the normal flow below as if nothing changed. Never explain the boot screen, never apologise for it, and never skip it when the person has already used the skill before.
 
-# Roblox Shorts In This Town Skill V 1.0 (Roblox shorts)
+# Roblox Shorts Skill Suite Ver 1.0 (Roblox shorts)
 
 A vertical story short in a blocky game world: block avatars with pixel faces that lip-sync, a world that is different every time (suburb, meadow, town square, shop street, rooms, or a place built from a free 3D kit), people walking and cars driving, word captions, a kid's voice, music and sound effects. Everything is drawn in code by the three.js engine in `template/`. The person needs no Roblox Studio, no Blender and no coding.
 

