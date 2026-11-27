@@ -1,0 +1,168 @@
+{
+ "example": true,
+ "title": "In This Town, Every Laugh Blows a BALLOON",
+ "format": "vertical",
+ "fps": 30,
+ "captions": false,
+ "music": "audio/bg.mp3",
+ "musicVolume": 0.12,
+ "voice": {
+  "provider": "fish",
+  "id": "e0fbbf9e5123434fb77c7a7eeaacb312"
+ },
+ "keys": [
+  "balloon",
+  "grape",
+  "floor",
+  "ceiling",
+  "nobody",
+  "net",
+  "serious",
+  "3",
+  "pia",
+  "pudding",
+  "6",
+  "hat",
+  "tower",
+  "60",
+  "200"
+ ],
+ "places": [
+  {
+   "name": "the shop street",
+   "lines": [
+    "1-3",
+    5,
+    "8-13"
+   ],
+   "build": "world:city"
+  },
+  {
+   "name": "the classroom",
+   "lines": [
+    4,
+    7
+   ],
+   "build": "hand",
+   "why": "built before kits existed; a new story uses the School kit"
+  },
+  {
+   "name": "the cinema",
+   "lines": [
+    6
+   ],
+   "build": "hand",
+   "why": "no Polyfork kit has a cinema hall with rows of seats"
+  },
+  {
+   "name": "the clock tower",
+   "lines": [
+    "14-16"
+   ],
+   "build": "hand",
+   "why": "one tall tower with a clock face and a ladder, not in any kit"
+  }
+ ],
+ "beats": [
+  {
+   "line": "In this town, every time you laugh, a balloon pops out of your mouth.",
+   "style": "town",
+   "scene": "balloons",
+   "seconds": 3.18
+  },
+  {
+   "line": "A giggle makes one the size of a grape.",
+   "style": "town",
+   "scene": "balloons",
+   "seconds": 1.54
+  },
+  {
+   "line": "A real laugh makes one big enough to lift you off the floor.",
+   "style": "town",
+   "scene": "balloons",
+   "seconds": 2.23
+  },
+  {
+   "line": "Last year, our teacher laughed at her own joke and spent math class on the ceiling.",
+   "style": "town",
+   "scene": "balloons",
+   "seconds": 3.18
+  },
+  {
+   "line": "So nobody here laughs.",
+   "style": "town",
+   "scene": "balloons",
+   "seconds": 1.2
+  },
+  {
+   "line": "The cinema only shows documentaries.",
+   "style": "town",
+   "scene": "balloons",
+   "seconds": 2.3
+  },
+  {
+   "line": "Every classroom has a net.",
+   "style": "town",
+   "scene": "balloons",
+   "seconds": 1.06
+  },
+  {
+   "line": "And me? I'm the most serious kid in school.",
+   "style": "town",
+   "scene": "balloons",
+   "seconds": 3.78
+  },
+  {
+   "line": "I have not laughed in 3 years.",
+   "style": "town",
+   "scene": "balloons",
+   "seconds": 1.24
+  },
+  {
+   "line": "My little sister Pia laughs at everything.",
+   "style": "town",
+   "scene": "balloons",
+   "seconds": 2.56
+  },
+  {
+   "line": "Spoons. Pigeons. The word \"pudding.\"",
+   "style": "town",
+   "scene": "balloons",
+   "seconds": 1.9
+  },
+  {
+   "line": "I pull her down by the ankle about 6 times a day.",
+   "style": "town",
+   "scene": "balloons",
+   "seconds": 2.19
+  },
+  {
+   "line": "Then, on Saturday, a pigeon stole a man's hat.",
+   "style": "town",
+   "scene": "balloons",
+   "seconds": 2.26
+  },
+  {
+   "line": "Pia laughed so hard she went up past the roofs and got stuck on top of the clock tower.",
+   "style": "town",
+   "scene": "balloons",
+   "seconds": 3.27
+  },
+  {
+   "line": "\"Our ladder is 60 feet,\" the fire chief said.",
+   "style": "town",
+   "scene": "balloons",
+   "seconds": 1.93
+  },
+  {
+   "line": "\"She's at 200.\"",
+   "style": "town",
+   "scene": "balloons",
+   "seconds": 0.75
+  }
+ ],
+ "sound": {
+  "bed": "none",
+  "music": -14
+ }
+}
