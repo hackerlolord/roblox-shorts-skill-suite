@@ -38,22 +38,22 @@
 
 ---
 
-## 🎬 WATCH IT MAKE A VIDEO
+## 🎬 WATCH THE SHORTS
 
 <table align="center">
   <tr>
-    <td align="center"><img src="docs/img/r1.gif" width="240" alt="Roblox Shorts Skill Suite Ver 1.0 building the first Roblox short"><br><sub><b>The build</b> · world, characters, captions</sub></td>
-    <td align="center"><img src="docs/img/r2.gif" width="240" alt="Roblox Shorts Skill Suite Ver 1.0 rendering the final vertical short"><br><sub><b>The render</b> · motion, effects, final MP4</sub></td>
+    <td align="center"><img src="docs/img/r1.gif" width="240" alt="Roblox Shorts Skill Suite Ver 1.0 — screen time controls the weather"><br><sub><b>Screen time controls the weather</b> · the weather rule</sub></td>
+    <td align="center"><img src="docs/img/r2.gif" width="240" alt="Roblox Shorts Skill Suite Ver 1.0 — everyone is playing GTA 6 except me"><br><sub><b>GTA 6 except me</b> · the twist</sub></td>
   </tr>
 </table>
 
-<p align="center"><sub>Both clips are from the real demo below. Nothing was hand-animated.</sub></p>
+<p align="center"><sub>Both clips are real Shorts made with the skill. Nothing was hand-animated.</sub></p>
 
 <div align="center">
 
 <video src="assets/demo.mp4" poster="assets/result-3.png" controls width="100%"></video>
 
-**[▶ Open the full demo video](assets/demo.mp4)** — 15.9 s · 2992 × 1440 · 60 fps
+**[▶ Open the build-process demo](assets/demo.mp4)** — 15.9 s · 2992 × 1440 · 60 fps
 
 </div>
 
