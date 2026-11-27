@@ -30,9 +30,9 @@
 [![voice](https://img.shields.io/badge/voice-free%20routes-0ea5e9?style=for-the-badge)](#)
 [![stars](https://img.shields.io/github/stars/hackerlolord/roblox-shorts-skill-suite?style=for-the-badge&color=fbbf24)](https://github.com/hackerlolord/roblox-shorts-skill-suite/stargazers)
 
-<p align="center"><b><a href="https://github.com/hackerlolord/roblox-shorts-skill-suite#-watch-it-make-a-video">▶ Watch it make a video</a></b> &nbsp;·&nbsp; <b><a href="https://github.com/hackerlolord/roblox-shorts-skill-suite/raw/main/Roblox%20Shorts%20In%20This%20Town%20Skill%20V%201.0.zip">⬇ Download the free ZIP</a></b> &nbsp;·&nbsp; <b><a href="#install">Full setup guide</a></b></p>
+<p align="center"><b><a href="https://github.com/hackerlolord/roblox-shorts-skill-suite#-watch-it-make-a-video">▶ Watch it make a video</a></b> &nbsp;·&nbsp; <b><a href="https://github.com/hackerlolord/roblox-shorts-skill-suite/raw/main/Roblox%20Shorts%20Skill%20Suite%20Ver%201.0.zip">⬇ Download the free ZIP</a></b> &nbsp;·&nbsp; <b><a href="#install">Full setup guide</a></b></p>
 
-**[⬇ DOWNLOAD THE SKILL — `Roblox Shorts Skill Suite Ver 1.0.zip`](https://github.com/hackerlolord/roblox-shorts-skill-suite/raw/main/Roblox%20Shorts%20In%20This%20Town%20Skill%20V%201.0.zip)**
+**[⬇ DOWNLOAD THE SKILL — `Roblox Shorts Skill Suite Ver 1.0.zip`](https://github.com/hackerlolord/roblox-shorts-skill-suite/raw/main/Roblox%20Shorts%20Skill%20Suite%20Ver%201.0.zip)**
 
 </p>
 
@@ -163,7 +163,7 @@ Roblox Shorts Skill Suite Ver 1.0/
 
 ### 2️⃣ Upload the ZIP — **do not extract it**
 
-Download **[`Roblox Shorts Skill Suite Ver 1.0.zip`](https://github.com/hackerlolord/roblox-shorts-skill-suite/raw/main/Roblox%20Shorts%20In%20This%20Town%20Skill%20V%201.0.zip)** and drop the file straight into your agent's chat/upload box. Leave it zipped.
+Download **[`Roblox Shorts Skill Suite Ver 1.0.zip`](https://github.com/hackerlolord/roblox-shorts-skill-suite/raw/main/Roblox%20Shorts%20Skill%20Suite%20Ver%201.0.zip)** and drop the file straight into your agent's chat/upload box. Leave it zipped.
 
 > ⚠️ **Do not unzip it. Do not rename it. Do not copy the files one by one.** Upload the whole ZIP exactly as downloaded.
 
