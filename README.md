@@ -77,7 +77,7 @@ Three real outputs. Different rules, different worlds, different characters — 
 
 ## How it works
 
-<img src="docs/img/how.png" alt="Seven steps: idea, script, voice, plan, stills, check, MP4" width="100%">
+<img src="docs/img/how.png" alt="How it works: one line in, a finished Roblox Short out" width="100%">
 
 1. **You type one idea.** `make a Roblox short about a town where every laugh makes a balloon appear`
 2. **The agent writes six fresh ideas.** You pick one, or paste your own story. Nothing is written without your yes.
